@@ -1,6 +1,4 @@
-# GitLeraningR
-para aprender
 
-qualqur coisa
+descrição
 
-mexi nisso
+continuando descrição
